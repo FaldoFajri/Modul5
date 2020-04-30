@@ -1,0 +1,2 @@
+rootProject.name='peta SPBU'
+include ':app'
